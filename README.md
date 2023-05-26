@@ -1,5 +1,7 @@
 # citz-data-bc-service-devops-specialist-req99120
 
+hello world
+
 ## Instructions for IS-27 DevOps Specialist Position
 
 For this technical assignment, we are asking you to provide a **PRIVATE** repository that houses artifacts used to generate a container of a given application, and other artifacts that would be used to deploy said container into a cloud container platform. An example of these artifacts should come in the form of the following:
